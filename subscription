@@ -113,7 +113,7 @@
       "statsOutboundUplink": true
     }
   },
-  "remarks": "mimas_net🇩🇪خرید سرور اختصاصی پرسرعت👈",
+  "remarks": "mimas_netخرید سرور اختصاصی پرسرعت🇩🇪👈",
   "routing": {
     "domainStrategy": "AsIs",
     "rules": [

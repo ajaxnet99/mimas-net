@@ -56,18 +56,18 @@
             "http/1.1"
           ],
           "fingerprint": "chrome",
-          "serverName": "109.120.140.19"
+          "serverName": "gate.mimas.linkpc.net"
         },
         "wsSettings": {
           "headers": {},
-          "host": "109.120.140.19",
+          "host": "gate.mimas.linkpc.net",
           "path": "/moon"
         }
       },
       "settings": {
         "vnext": [
           {
-            "address": "109.120.140.19",
+            "address": "gate.mimas.linkpc.net",
             "port": 443,
             "users": [
               {
